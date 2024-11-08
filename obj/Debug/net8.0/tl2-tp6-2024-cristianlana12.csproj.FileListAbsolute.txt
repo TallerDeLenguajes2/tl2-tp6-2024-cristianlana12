@@ -1,0 +1,8 @@
+C:\UNIVERSIDAD\TERCER_ANIO\2_SEGUNDO CUATRIMESTRE\TALLER DE LENGUAJES II\TP06\tl2-tp6-2024-cristianlana12\obj\Debug\net8.0\tl2-tp6-2024-cristianlana12.csproj.AssemblyReference.cache
+C:\UNIVERSIDAD\TERCER_ANIO\2_SEGUNDO CUATRIMESTRE\TALLER DE LENGUAJES II\TP06\tl2-tp6-2024-cristianlana12\obj\Debug\net8.0\tl2-tp6-2024-cristianlana12.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNIVERSIDAD\TERCER_ANIO\2_SEGUNDO CUATRIMESTRE\TALLER DE LENGUAJES II\TP06\tl2-tp6-2024-cristianlana12\obj\Debug\net8.0\tl2-tp6-2024-cristianlana12.AssemblyInfoInputs.cache
+C:\UNIVERSIDAD\TERCER_ANIO\2_SEGUNDO CUATRIMESTRE\TALLER DE LENGUAJES II\TP06\tl2-tp6-2024-cristianlana12\obj\Debug\net8.0\tl2-tp6-2024-cristianlana12.AssemblyInfo.cs
+C:\UNIVERSIDAD\TERCER_ANIO\2_SEGUNDO CUATRIMESTRE\TALLER DE LENGUAJES II\TP06\tl2-tp6-2024-cristianlana12\obj\Debug\net8.0\tl2-tp6-2024-cristianlana12.csproj.CoreCompileInputs.cache
+C:\UNIVERSIDAD\TERCER_ANIO\2_SEGUNDO CUATRIMESTRE\TALLER DE LENGUAJES II\TP06\tl2-tp6-2024-cristianlana12\obj\Debug\net8.0\tl2-tp6-2024-cristianlana12.MvcApplicationPartsAssemblyInfo.cache
+C:\UNIVERSIDAD\TERCER_ANIO\2_SEGUNDO CUATRIMESTRE\TALLER DE LENGUAJES II\TP06\tl2-tp6-2024-cristianlana12\obj\Debug\net8.0\tl2-tp6-2024-cristianlana12.RazorAssemblyInfo.cache
+C:\UNIVERSIDAD\TERCER_ANIO\2_SEGUNDO CUATRIMESTRE\TALLER DE LENGUAJES II\TP06\tl2-tp6-2024-cristianlana12\obj\Debug\net8.0\tl2-tp6-2024-cristianlana12.RazorAssemblyInfo.cs
