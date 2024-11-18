@@ -13,6 +13,6 @@ namespace tl2_tp6_2024_cristianlana12
     public enum AccessLevel
     {
         Admin,
-        Usiario
+        Usuario
     }
 }
