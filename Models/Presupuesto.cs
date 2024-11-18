@@ -56,8 +56,9 @@ public class Presupuesto
     public override bool Equals(object? obj)
     {
         // Verifica si el objeto comparado es null o de un tipo diferente
-        if (obj == null || GetType() != obj.GetType())
+        if (obj == null || GetType() != obj.GetType()){
             return false;
+        }
 
         // Castea el objeto al tipo de tu clase
         Presupuesto other = (Presupuesto)obj;

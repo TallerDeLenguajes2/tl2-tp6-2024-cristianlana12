@@ -1,5 +1,4 @@
 namespace tl2_tp6_2024_cristianlana12.Models;
-
 public class ErrorViewModel
 {
     public string? RequestId { get; set; }
